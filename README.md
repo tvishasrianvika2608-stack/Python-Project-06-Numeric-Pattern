@@ -1,0 +1,1 @@
+# Python-Project-06-Numeric-Pattern
